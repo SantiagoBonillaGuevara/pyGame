@@ -6,6 +6,27 @@
 
 ---
 
+## 🛠️ ¿Qué necesitás para jugar?
+
+Antes de sumergirte en esta joyita retro-personalizable, asegurate de tener lo siguiente:
+
+### ✅ Requisitos:
+- Python 3.x (el más nuevito, si es posible).
+- Tener instalada la biblioteca mágica llamada `pygame`. Si no la tenés, corré este hechizo en tu terminal:
+
+```bash
+pip install pygame
+```
+ - Clona el repositorio
+```bash
+git clone https://github.com/SantiagoBonillaGuevara/pyGame
+```
+ - Y dentro corre el archivo main.py
+```bash
+pyhton main.py
+```
+---
+
 ## 🕹️ Menú Principal (no te lo pierdas, eh)
 
 Cuando arranca el juego, BOOM, te tira este menú:
