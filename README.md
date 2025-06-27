@@ -12,7 +12,7 @@ Antes de sumergirte en esta joyita retro-personalizable, asegurate de tener lo s
 
 ### ✅ Requisitos:
 - Python 3.x (el más nuevito, si es posible).
-- Tener instalada la biblioteca mágica llamada `pygame`. Si no la tenés, corré este hechizo en tu terminal:
+- Tener instalada la biblioteca mágica llamada `pygame`. Si no la tienes, corre este hechizo en tu terminal:
 
 ```bash
 pip install pygame
