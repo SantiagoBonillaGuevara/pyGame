@@ -12,7 +12,7 @@ Cuando arranca el juego, BOOM, te tira este menú:
 
 ![Menú Principal](https://github.com/user-attachments/assets/cca215ba-3742-4aec-a120-39e7539856e4)
 
-Tenés 3 caminos:
+Tenés 4 caminos:
 
 - 🔫 Jugar (¡Obvio!)
 - 🚪 Salir (¿Quién hace eso?)
